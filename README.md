@@ -113,9 +113,6 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 # 🤝 Let's Connect
 
-
-# 🤝 Let's Connect
-
 <p align="center">
 
   <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280" target="_blank">
