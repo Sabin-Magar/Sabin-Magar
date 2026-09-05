@@ -88,14 +88,6 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./trophy.svg" alt="GitHub Trophies" />
-</p>
-
----
-
 # 🎧 Beyond the Code
 
 ```text
