@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Designing+interfaces+that+feel+right.;Building+websites+that+actually+work.;Turning+ideas+into+digital+experiences.;Always+learning.+Always+building." alt="Typing SVG" />
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=666666&center=true&vCenter=true&width=650&lines=Designing+%26+building+digital+experiences.;Learning%2C+creating%2C+and+experimenting.;Turning+ideas+into+something+real." alt="Typing SVG" /> </p>
-
 <p align="center">
   <a href="https://github.com/Sabin-Magar">
     <img src="https://komarev.com/ghpvc/?username=sabin-magar&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
