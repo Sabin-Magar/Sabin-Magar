@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sabin+Ale+Magar;사빈+알레+마가르;萨宾·阿莱·马加尔;サビン・アレ・マガル" alt="Sabin Ale Magar" />
-</p>
+# 👋 Hey, I'm Sabin Ale Magar 
 
-### `UI/UX Designer` × `Full-Stack Developer` × `Creative Mind`
+### UI/UX Designer × Full-Stack Developer × Creative Mind
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Designing+interfaces+that+feel+right.;Building+websites+that+actually+work.;Turning+ideas+into+digital+experiences.;Always+learning.+Always+building." alt="Typing SVG" />
@@ -10,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/Sabin-Magar">
-    <img src="https://komarev.com/ghpvc/?username=sabin-magar&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
-  </a>
+    <img src="https://komarev.com/ghpvc/?username=sabin-magar&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/> 
+ </a>
 </p>
 
 
