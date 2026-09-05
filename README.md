@@ -114,8 +114,8 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280">
-    <img src="https://cdn.simpleicons.org/linkedin/white" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/__sabin_magar">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
