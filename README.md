@@ -16,11 +16,8 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **CSIT student from Nepal** who enjoys working at the intersection of **design and development**.
-
-I love taking an idea from a rough concept → **UI/UX design** → **frontend** → **backend** → **working product**.
-
-Currently exploring **full-stack development, UI/UX design, video editing, and creative digital experiences.**
+I'm passionate about creating things that combine good design with functional technology, from interfaces and visuals to full-stack web applications.
+I enjoy experimenting with new ideas, learning along the way, and turning concepts into something people can actually use.**
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -35,44 +32,6 @@ Currently exploring **full-stack development, UI/UX design, video editing, and c
 * 🏔️ Love exploring new places
 * 📍 Building from **Nepal 🇳🇵**
 * 📫 Reach me at **[alemagarsabin123@gmail.com](mailto:alemagarsabin123@gmail.com)**
-
----
-
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 UI / UX
-
-* User Interface Design
-* Wireframing
-* Prototyping
-* Design Systems
-* Responsive Design
-* User-centered Design
-* Figma
-* Framer
-
-</td>
-
-<td width="50%">
-
-### 💻 Full-Stack
-
-* Frontend Development
-* Backend Development
-* REST APIs
-* Database Design
-* Authentication
-* Responsive Web Apps
-* Deployment
-* Git & GitHub
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -116,28 +75,7 @@ Currently exploring **full-stack development, UI/UX design, video editing, and c
 
 ---
 
-# 🚀 Featured Project
-
-## 👟 Footsy
-
-> **A full-stack web project I'm currently building.**
-
-Footsy is one of my ongoing projects where I'm bringing together my **design, frontend, backend, and problem-solving skills** into one real-world application.
-
-<p align="left">
-  <a href="https://github.com/Sabin-Magar/Footsy">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 # 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sabin-magar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-magar&layout=compact&hide_border=true&theme=transparent" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sabin-magar&hide_border=true&theme=transparent" />
@@ -170,17 +108,7 @@ Footsy is one of my ongoing projects where I'm bringing together my **design, fr
 
 # 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/__sabin_magar">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:alemagarsabin123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/__sabin_magar"> <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:alemagarsabin123@gmail.com"> <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
 ---
 
