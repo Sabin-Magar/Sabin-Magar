@@ -116,7 +116,7 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 <p align="center">
  <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyME40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI3LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTIgMC0yLjEzNyAxLjQ0NS0yLjEzNyAyLjkzN3Y1LjY2OWgtMy41NTNWOS4wMDloMy40MTJ2MS41NjhoLjA0OGMuNDc3LS45IDEuNjM3LTEuODUyIDMuMzY3LTEuODUyIDMuNTk5IDAgNC4yNjkgMi4zNjcgNC4yNjkgNS40NTZ2Ni4yNzF6TTYuMzM3IDcuNDMzYy0xLjE0NSAwLTIuMDctLjkyNy0yLjA3LTIuMDcyczkyNy0yLjA3MiAyLjA3Mi0yLjA3MiAyLjA3My45MjcgMi4wNzMgMi4wNzItLjkyNyAyLjA3Mi0yLjA3MyAyLjA3MnpNNi4xMTQgMjAuNDUyaDMuNTYxVjkuMDA5SDYuMTE0djExLjQ0M3oiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
   <a href="https://instagram.com/__sabin_magar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
