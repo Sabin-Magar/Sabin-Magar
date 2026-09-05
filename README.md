@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sabin Ale Magar
+# 👋 Hey, I'm <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sabin+Ale+Magar;사빈+알레+마가르;萨宾·阿莱·马加尔;サビン・アレ・マガル" alt="Sabin Ale Magar" /> </p>
 
 ### `UI/UX Designer` × `Full-Stack Developer` × `Creative Mind`
 
@@ -86,7 +86,7 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabin-magar&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sabin-magar&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -108,7 +108,17 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 # 🤝 Let's Connect
 
-<p align="center"> <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/__sabin_magar"> <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:alemagarsabin123@gmail.com"> <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280">
+    <img src="https://cdn.simpleicons.org/linkedin/white" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/__sabin_magar">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:alemagarsabin123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
+  </a>
+</p>
 
 ---
 
@@ -116,6 +126,8 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 ### `BUILD. DESIGN. CREATE. REPEAT.`
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2500&color=666666&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Keep+building.+Keep+creating." alt="Footer"/> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2500&color=666666&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Keep+building.+Keep+creating." alt="Footer"/>
+</p>
 
 </p>
