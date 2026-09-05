@@ -1,4 +1,8 @@
-# 👋 Hey, I'm Sabin Ale Magar 
+<h1 align="center">Hi 👋, I'm</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sabin+Ale+Magar;사빈+알레+마가르;萨宾·阿莱·马加尔;サビン・アレ・マガル" alt="Sabin Ale Magar" />
+</p>
 
 ### UI/UX Designer × Full-Stack Developer × Creative Mind
 
