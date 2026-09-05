@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sabin+Ale+Magar;사빈+알레+마가르;萨宾·阿莱·马加尔;サビン・アレ・マガル" alt="Sabin Ale Magar" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1800&center=true&vCenter=true&width=700&lines=Sabin%20Ale%20Magar;%EC%82%AC%EB%B9%88%20%EC%95%8C%EB%A0%88%20%EB%A7%88%EA%B0%80%EB%A5%B4;%E8%90%A8%E5%AE%BE%C2%B7%E9%98%BF%E8%8E%B1%C2%B7%E9%A9%AC%E5%8A%A0%E5%B0%94;%E3%82%B5%E3%83%93%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%BB%E3%83%9E%E3%82%AC%E3%83%AB" alt="Sabin Ale Magar" />
 </p>
 
 ### UI/UX Designer × Full-Stack Developer × Creative Mind
