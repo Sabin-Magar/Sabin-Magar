@@ -1,29 +1,193 @@
-<h1 align="center">Hi 👋, I'm Sabin Ale Magar</h1>
-<h3 align="center">A CSIT student passionate about UI/UX and full-stack development</h3>
+# 👋 Hey, I'm Sabin Ale Magar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabin-magar&label=Profile%20views&color=0e75b6&style=flat" alt="sabin-magar" /> </p>
+### `UI/UX Designer` × `Full-Stack Developer` × `Creative Mind`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabin-magar" alt="sabin-magar" /></a> </p>
-
-- 🔭 I’m currently working on [Footsy](https://github.com/Sabin-Magar/Footsy.git)
-
-- 🌱 I’m currently learning **video editing, designing and full stack development**
-
-- 📫 How to reach me **alemagarsabin123@gmail.com**
-
-- ⚡ Fun fact **🎧 I’m almost always listening to music. My playlist changes with my mood.🎨 I love drawing and creating random art.🏔️ I love exploring new places.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabin-ale-magar-6a0a19280" height="30" width="40" /></a>
-<a href="https://instagram.com/__sabin_magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sabin_magar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Designing+interfaces+that+feel+right.;Building+websites+that+actually+work.;Turning+ideas+into+digital+experiences.;Always+learning.+Always+building." alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Sabin-Magar">
+    <img src="https://komarev.com/ghpvc/?username=sabin-magar&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabin-magar&show_icons=true&locale=en&layout=compact" alt="sabin-magar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabin-magar&show_icons=true&locale=en" alt="sabin-magar" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabin-magar&" alt="sabin-magar" /></p>
+I'm a **CSIT student from Nepal** who enjoys working at the intersection of **design and development**.
+
+I love taking an idea from a rough concept → **UI/UX design** → **frontend** → **backend** → **working product**.
+
+Currently exploring **full-stack development, UI/UX design, video editing, and creative digital experiences.**
+
+```text
+┌──────────────────────────────────────────────┐
+│  DESIGN  →  DEVELOP  →  EXPERIMENT  →  BUILD │
+└──────────────────────────────────────────────┘
+```
+
+* 🔭 Currently working on **[Footsy](https://github.com/Sabin-Magar/Footsy)**
+* 🌱 Currently learning **Full-Stack Development, UI/UX & Video Editing**
+* 🎨 I enjoy **drawing, designing & experimenting with visuals**
+* 🎧 Almost always listening to music
+* 🏔️ Love exploring new places
+* 📍 Building from **Nepal 🇳🇵**
+* 📫 Reach me at **[alemagarsabin123@gmail.com](mailto:alemagarsabin123@gmail.com)**
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 UI / UX
+
+* User Interface Design
+* Wireframing
+* Prototyping
+* Design Systems
+* Responsive Design
+* User-centered Design
+* Figma
+* Framer
+
+</td>
+
+<td width="50%">
+
+### 💻 Full-Stack
+
+* Frontend Development
+* Backend Development
+* REST APIs
+* Database Design
+* Authentication
+* Responsive Web Apps
+* Deployment
+* Git & GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,html,css" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,dotnet" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+### Design & Creative Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,framer" />
+</p>
+
+### Tools & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 👟 Footsy
+
+> **A full-stack web project I'm currently building.**
+
+Footsy is one of my ongoing projects where I'm bringing together my **design, frontend, backend, and problem-solving skills** into one real-world application.
+
+<p align="left">
+  <a href="https://github.com/Sabin-Magar/Footsy">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sabin-magar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-magar&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabin-magar&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sabin-magar&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+# 🎧 Beyond the Code
+
+```text
+🎧 Music       ████████████████████  100%
+🎨 Drawing     ███████████████░░░░░   75%
+📸 Photography ██████████████░░░░░░   70%
+🏔️ Exploring    █████████████████░░░   85%
+☕ Coffee       ███████████████████░   95%
+🌙 Night Owl   ████████████████████  100%
+```
+
+> *"Sometimes the best ideas happen when you're not trying to have them."*
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/__sabin_magar">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:alemagarsabin123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### `BUILD. DESIGN. CREATE. REPEAT.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+
+</p>
