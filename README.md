@@ -115,19 +115,15 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 
 <p align="center">
-
   <a href="https://linkedin.com/in/sabin-ale-magar-6a0a19280" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/white" alt="LinkedIn" width="40" height="40"/>
-</a>
-
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://instagram.com/__sabin_magar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
   <a href="mailto:alemagarsabin123@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
 </p>
 
 ---
