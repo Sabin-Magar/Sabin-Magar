@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 I'm passionate about creating things that combine good design with functional technology, from interfaces and visuals to full-stack web applications.
-I enjoy experimenting with new ideas, learning along the way, and turning concepts into something people can actually use.**
+I enjoy experimenting with new ideas, learning along the way, and turning concepts into something people can actually use.
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -116,6 +116,6 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 ### `BUILD. DESIGN. CREATE. REPEAT.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2500&color=666666&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Keep+building.+Keep+creating." alt="Footer"/> </p>
 
 </p>
