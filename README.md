@@ -91,7 +91,7 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sabin-Magar&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sabin-Magar&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=6" alt="GitHub Trophies" />
 </p>
 
 ---
