@@ -80,7 +80,7 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 
 ---
 
-# 📊 GitHub Stats
+# 📊၊၊||၊ GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sabin-magar&hide_border=true&theme=transparent" />
