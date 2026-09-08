@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻✨ About Me
+## ✨ About Me
 
 I'm passionate about creating things that combine good design with functional technology, from interfaces and visuals to full-stack web applications.
 I enjoy experimenting with new ideas, learning along the way, and turning concepts into something people can actually use.
