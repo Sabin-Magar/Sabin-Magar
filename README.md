@@ -31,7 +31,7 @@ I enjoy experimenting with new ideas, learning along the way, and turning concep
 ```
 
 * 🔭 Currently working on **[Footsy](https://github.com/Sabin-Magar/Footsy)**
-* 🌱 Currently learning **Full-Stack Development, UI/UX & Video Editing**
+* 🌱 Currently learning **Graphic Designing and UI/UX**
 * 🎨 I enjoy **drawing, designing & experimenting with visuals**
 * 🎧 Almost always listening to music
 * 🏔️ Love exploring new places
